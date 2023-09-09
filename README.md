@@ -1,4 +1,6 @@
 # ultimate-gd-editor-guide
 The Ultimate Geometry Dash Editor Guide
 
-coming soon...
+POSTPONED UNTIL 2.2
+
+MIGHT MAKE A 2.1 BRANCH
